@@ -5,6 +5,8 @@ Una forma rápida y sencilla de implementar Docker y Docker Compose con solo un 
 
 ![image](https://github.com/user-attachments/assets/13e42458-b2ee-4219-aa67-098a8fd60691)
 
+🎞️ https://youtu.be/25Sr8Eibxx4
+
 Fuente
 
 https://genbyte.blogspot.com/2024/09/como-instalar-docker-docker-compose.html
