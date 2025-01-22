@@ -23,7 +23,7 @@ sudo docker-compose -v
 sleep 5
 
 # Add local user to group Docker
-sudo usermod -aG docker genbyte
+sudo usermod -aG docker pi
 printf '\nUsuario local metido al grupo...\n\n'
 sleep 5
 
